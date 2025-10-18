@@ -11,7 +11,7 @@
 		"ghcr.io/EliiseS/devcontainer-features/bash-profile:1": {
 			"command": "alias h=history; alias c=clear; alias rm='rm -i'"
 		},
-		"ghcr.io/devcontainers/features/rust:1": {}
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
